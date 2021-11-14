@@ -17,5 +17,6 @@
 
 ## リンク
 
-ゲーム:  https://fuyutsubaki.github.io/dge-2021/index.html
-wasmファイルサンプル:  https://github.com/Fuyutsubaki/dge-2021/tree/master/samples
+- ゲーム:  https://fuyutsubaki.github.io/dge-2021/index.html
+- wasmファイルサンプル:  https://github.com/Fuyutsubaki/dge-2021/tree/master/samples
+
